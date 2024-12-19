@@ -1,1 +1,1 @@
-# Docker-deploy
+IP адрес: 84.201.160.87 домен для фронтенда: geekonclick-docker.nomorepartiesco.ru домен для бекенда: api.geekonclick-docker.nomorepartiesco.ru
